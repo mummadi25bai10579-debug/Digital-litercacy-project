@@ -24,7 +24,8 @@ A clean, visual guide covering:
 - Safe Internet Practices
 - Professional Online Presence
 
-![Digital Literacy Infographic](infographic.png)
+![Digital Literacy Infographic](<img width="943" height="2000" alt="infographic" src="https://github.com/user-attachments/assets/275be797-a430-4222-b48a-75d5744e4e6f" />
+)
 
 ### 2.  Safe Internet Practices & Prevention Checklist
 Created a professional **"Stay Safe Online – Advanced Prevention Checklist"** (PDF) covering:
