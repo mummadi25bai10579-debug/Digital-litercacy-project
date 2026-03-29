@@ -46,7 +46,7 @@ Highlights social engineering tactics and preventive steps.
 ### 4.  Digital Literacy Awareness Quiz
 I designed and published a **Google Form Quiz** to test basic knowledge of digital literacy and safe internet practices.
 
-- **Live Quiz:** [Click here to attempt the quiz](https://forms.gle/YOUR_QUIZ_LINK) *(replace with actual link)*
+- **Live Quiz:** [Click here to attempt the quiz](https://docs.google.com/forms/d/e/1FAIpQLSf8D9V7OJ0wRCHNSnxTy32GIK43sN2SJe2oRMEdE_ahCcQCDg/viewform) *(replace with actual link)*
 - **Response Summary:** 6 responses collected so far  
   - 83.3% correctly identified "Using internet safely" as digital literacy  
   - Majority chose correct safe practices  
