@@ -37,7 +37,6 @@ Created a professional **"Stay Safe Online – Advanced Prevention Checklist"** 
 Documented a real-world **UPI Payment Fraud** case study targeting students.  
 Highlights social engineering tactics and preventive steps.
 
-![Case Study](Casestudy.png)
 
 ### 4.  Digital Literacy Awareness Quiz
 I designed and published a **Google Form Quiz** to test basic knowledge of digital literacy and safe internet practices.
