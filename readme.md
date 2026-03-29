@@ -24,16 +24,12 @@ A clean, visual guide covering:
 - Safe Internet Practices
 - Professional Online Presence
 
-![Digital Literacy Infographic](<img width="943" height="2000" alt="infographic" src="https://github.com/user-attachments/assets/275be797-a430-4222-b48a-75d5744e4e6f" />
-)
 
 ### 2.  Safe Internet Practices & Prevention Checklist
 Created a professional **"Stay Safe Online – Advanced Prevention Checklist"** (PDF) covering:
 - General Safety
 - UPI & Financial Safety
-- Awareness & Reporting (Cybercrime.gov.in + 1930 helpline)
-
-![Prevention Checklist](Prevention-checklist.png)
+- Awareness & Reporting (Cybercrime.gov.in + 1930 helpline
 
 **Key Message:** Never share OTP, UPI PIN, or click unknown links.
 
@@ -52,8 +48,6 @@ I designed and published a **Google Form Quiz** to test basic knowledge of digit
   - Majority chose correct safe practices  
   - Average confidence in spotting fake news: **~3/5**
 
-![Quiz Form](form.png)  
-![Response Summary](sheet.png)
 
 ### 5.  Professional Online Presence
 
@@ -68,14 +62,14 @@ I designed and published a **Google Form Quiz** to test basic knowledge of digit
 - Email 1 → Assignment Extension Request
 - Email 2 → Summer Internship Inquiry
 
-![Professional Emails](professional-emails-screenshot.png)
+
 
 ### 6. Social Media Do’s & Don’ts
 Created a clean checklist:
 **Do’s:** Professional language, share useful content, keep profile clean  
 **Don’ts:** No personal data, no offensive content, no fake news
 
-![Social Media Checklist](Social-media-checklist.png)
+
 
 
 
